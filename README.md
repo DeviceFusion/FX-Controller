@@ -34,18 +34,18 @@ In subsequent years the truck was not used and instead the components used to tr
 
 On a technical basis I designed and built the entire installation: all of the automation control components and programming,all of the electro-mechanical characters, the electro-mechanical coffin, the motion-sensor, lighting fixtures, and created the sound effect track. The control components consist of:
 2.An arduino based master controller:
-  -Controls the overall run cycle described above.
-  -Monitors the motion detector to trigger the display cycle.
-  -Directly controls all lighting effects
-  -Directly controls the sound track
-  -Directly controls the smoke effects
-  -Directly controls the coffin open/close cycle.
-  -Indirectly controls the skeleton heads via RS232 communication to a secondary arduino.
-  -Indirectly controls the zombie via a light sensing trigger.
+   -Controls the overall run cycle described above.
+   -Monitors the motion detector to trigger the display cycle.
+   -Directly controls all lighting effects
+   -Directly controls the sound track
+   -Directly controls the smoke effects
+   -Directly controls the coffin open/close cycle.
+   -Indirectly controls the skeleton heads via RS232 communication to a secondary arduino.
+   -Indirectly controls the zombie via a light sensing trigger.
 2.Secondary Arduino skeleton head controller.
-  -Receives commands from the master controller via RS232.
-  -Determines each movement of each skeleton head.
-  -Heads are moved to the desired position via output to servo motors.
+   -Receives commands from the master controller via RS232.
+   -Determines each movement of each skeleton head.
+   -Heads are moved to the desired position via output to servo motors.
 2.Arduino zombie controller
-  -Zombie head bobble is triggered by a light sensor directed at the master control’s lighting effects.
-  -Zombie head bobble is accomplished by the Arduino controlling an automotive electric door lock mechanism.
+   -Zombie head bobble is triggered by a light sensor directed at the master control’s lighting effects.
+   -Zombie head bobble is accomplished by the Arduino controlling an automotive electric door lock mechanism.
