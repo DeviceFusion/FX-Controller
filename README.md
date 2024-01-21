@@ -33,7 +33,7 @@ The initial installation was in the form of a haunted pickup truck parked in my 
 In subsequent years the truck was not used and instead the components were used to transform my house into a haunted house. Using the same automation control, the various character components are set up inside the house in the street facing windows. The coffin and related components are set up outside directly in front of the house. In addition to the original automation components, projected video was added. The video consists of a parade of Zombies projected in one window and a giant red eyeball slowly “looking around” projected into another.
 
 On a technical basis I designed and built the entire installation: all of the automation control components and programming,all of the electro-mechanical characters, the electro-mechanical coffin, the motion-sensor, lighting fixtures, and created the sound effect track. The control components consist of:
-2. An arduino based master controller:
+2. An Arduino based master controller:
    - Controls the overall run cycle described above.
    - Monitors the motion detector to trigger the display cycle.
    - Directly controls all lighting effects
@@ -46,6 +46,6 @@ On a technical basis I designed and built the entire installation: all of the au
    - Receives commands from the master controller via RS232.
    - Determines each movement of each skeleton head.
    - Heads are moved to the desired position via output to servo motors.
-2. Arduino zombie controller
+2. Secondary Arduino zombie controller
    - Zombie head bobble is triggered by a light sensor directed at the master control’s lighting effects.
    - Zombie head bobble is accomplished by the Arduino controlling an automotive electric door lock mechanism.
