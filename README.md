@@ -10,12 +10,12 @@ The initial installation was in the form of a haunted pickup truck parked in my 
 1. An automated Zombie, whose head bobbles when activated.
 1. A frightened/screaming trick-or-treater mannequin.
 1. Various computer controlled  lighting, sound, and smoke effects timed to be activated at distinct points in the special effects cycle. 
-- Simulated lightning.
-- Fast random flashing lights.
-- Slow Random flashing lights.
-- Steady-on black lighting
-- Computer triggered smoke machine.
-- Spooky sound effects track played through a PA speaker.
+ - Simulated lightning.
+ - Fast random flashing lights.
+ - Slow Random flashing lights.
+ - Steady-on black lighting
+ - Computer triggered smoke machine.
+ - Spooky sound effects track played through a PA speaker.
 1. An IR motion sensor that triggers the automated special effects cycle.
 -The installation sits dark and silent until a trick-or-treater triggers the special effects by walking by the motion sensor.
   -Once triggered the automation runs its cycle and then returns to dark.
