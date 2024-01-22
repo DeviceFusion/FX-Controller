@@ -1,6 +1,9 @@
 # FX-Controller
 The FX Controller is a hobby project that provides automated control of a spooky Halloween Installation. The goal of the installation is to provide Halloween night Trick-or-treaters a spooky treat. First developed in 2015 and run every Halloween since with occasional updates and improvements.
 
+[Haunted Truck Video 1](https://youtu.be/cINQ59f6FR0?si=eu45B3IkacdNE0Yr)
+[Haunted Truck Video 2](https://youtu.be/cINQ59f6FR0?si=twGsPpTDEmDd_xfs)
+
 The initial installation was in the form of a haunted pickup truck parked in my front yard. The major components consisted of:
 1. An old 1954 Ford F100 pickup.
 1. A skeleton driver and passenger in the truck cab. The skeleton’s have mechanically automated heads that when activated randomly move to any point left or right, giving the effect that they are “looking around”.
