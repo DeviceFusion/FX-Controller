@@ -1,5 +1,5 @@
 # FX-Controller
-The FX Controller is a hobby project that provides automated control of a spooky Halloween Installation. The goal of the installation is to provide Halloween night Trick-or-treaters a spooky treat. First developed in 2019 and run every Halloween since with occasional updates and improvements.
+The FX Controller is a hobby project that provides automated control of a spooky Halloween Installation. The goal of the installation is to provide Halloween night Trick-or-treaters a spooky treat. First developed in 2015 and run every Halloween since with occasional updates and improvements.
 
 The initial installation was in the form of a haunted pickup truck parked in my front yard. The major components consisted of:
 1. An old 1954 Ford F100 pickup.
